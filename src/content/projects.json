@@ -1,0 +1,124 @@
+[
+  {
+    "id": "1",
+    "title": "Farm Drainage System Installation",
+    "client": "Meadow Farm, Preston",
+    "category": "agriculture",
+    "scope": "Complete field drainage system across 45 acres of agricultural land",
+    "outcome": "Improved land productivity by 40% and eliminated seasonal waterlogging issues",
+    "metrics": {
+      "duration": "3 weeks",
+      "team": "4 operators",
+      "plant": "2 excavators, 1 dumper"
+    },
+    "image": "/images/projects/drainage.jpg",
+    "description": "Installed comprehensive drainage system including main drains, laterals, and outfall management. Work completed during optimal weather window with minimal disruption to farming operations."
+  },
+  {
+    "id": "2",
+    "title": "Agricultural Building Groundworks",
+    "client": "Green Valley Farms, Lancaster",
+    "category": "construction",
+        "featured": true,
+
+    "scope": "Groundworks and foundations for new 2,000 sq ft agricultural storage building",
+    "outcome": "Delivered on time and budget with reinforced concrete base ready for steel frame erection",
+    "metrics": {
+      "duration": "2 weeks",
+      "team": "5 operators",
+      "plant": "1 excavator, 2 dumpers"
+    },
+    "image": "/images/projects/groundworks.jpg",
+    "description": "Complete site preparation including excavation, drainage, and reinforced concrete base. Coordinated with building contractor for seamless project delivery."
+  },
+  {
+    "id": "3",
+    "title": "Boundary Fencing Project",
+    "client": "Hillside Estate, Clitheroe",
+    "category": "agriculture",
+    "scope": "2.5km of stock fencing and gates across mixed terrain",
+    "outcome": "Secure boundary established with improved livestock management and reduced maintenance needs",
+    "metrics": {
+      "duration": "4 weeks",
+      "team": "3 operators",
+      "plant": "1 compact excavator"
+    },
+    "image": "/images/projects/fencing.jpg",
+    "description": "Installed high-quality stock fencing with treated posts, including 8 field gates. Work included challenging terrain and coordination with neighboring properties."
+  },
+  {
+    "id": "4",
+    "title": "Site Clearance & Demolition",
+    "client": "Riverside Development, Blackburn",
+    "category": "construction",
+    "scope": "Demolition of old farm buildings and complete site clearance",
+    "outcome": "Site cleared and leveled ready for residential development with 95% waste recycled",
+    "metrics": {
+      "duration": "3 weeks",
+      "team": "6 operators",
+      "plant": "2 excavators, 3 dumpers"
+    },
+    "image": "/images/projects/demolition.jpg",
+    "description": "Safe demolition of redundant farm buildings followed by site clearance and leveling. Comprehensive waste management with maximum recycling achieved."
+  },
+  {
+    "id": "5",
+    "title": "Farm Access Road Construction",
+    "client": "Oakwood Farm, Chorley",
+    "category": "construction",
+    "scope": "500m all-weather access road with drainage and hardcore base",
+    "outcome": "Year-round access achieved for heavy agricultural vehicles and deliveries",
+    "metrics": {
+      "duration": "2 weeks",
+      "team": "4 operators",
+      "plant": "2 excavators, 2 dumpers"
+    },
+    "image": "/images/projects/access-road.jpg",
+    "description": "Constructed durable access road with proper drainage and compacted hardcore base. Designed to handle heavy agricultural machinery in all weather conditions."
+  },
+  {
+    "id": "6",
+    "title": "Livestock Yard Construction",
+    "client": "Manor Farm, Garstang",
+    "category": "construction",
+    "scope": "New concrete livestock yard with drainage and feed storage area",
+    "outcome": "Modern facility improving animal welfare and operational efficiency",
+    "metrics": {
+      "duration": "4 weeks",
+      "team": "5 operators",
+      "plant": "1 excavator, 1 dumper"
+    },
+    "image": "/images/projects/yard.jpg",
+    "description": "Complete livestock yard with reinforced concrete, integrated drainage system, and feed storage. Designed for easy cleaning and excellent animal welfare standards."
+  },
+  {
+    "id": "7",
+    "title": "Land Leveling & Improvement",
+    "client": "Valley View Farm, Burnley",
+    "category": "agriculture",
+    "scope": "25 acres of land leveling and topsoil management",
+    "outcome": "Improved field usability and crop yields with better water management",
+    "metrics": {
+      "duration": "3 weeks",
+      "team": "4 operators",
+      "plant": "2 excavators, 2 dumpers"
+    },
+    "image": "/images/projects/leveling.jpg",
+    "description": "Precision land leveling with careful topsoil management. Work improved field drainage and created more uniform growing conditions across the site."
+  },
+  {
+    "id": "8",
+    "title": "Residential Extension Groundworks",
+    "client": "Private Client, Whalley",
+    "category": "construction",
+    "scope": "Groundworks for large residential extension including foundations and drainage",
+    "outcome": "Quality foundations delivered to building control standards, ready for construction",
+    "metrics": {
+      "duration": "1 week",
+      "team": "3 operators",
+      "plant": "1 excavator, 1 dumper"
+    },
+    "image": "/images/projects/extension.jpg",
+    "description": "Professional groundworks including excavation, drainage connections, and concrete foundations. Work completed efficiently with minimal disruption to occupied property."
+  }
+]

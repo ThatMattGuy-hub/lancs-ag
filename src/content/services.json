@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "winter-maintenance",
+    "title": "Winter Maintenance",
+    "icon": "Snowflake",
+    "summary": "Responsive and reliable winter gritting and snow clearance services",
+    "category": "agriculture",
+    "whatWeDo": "We offer a very responsive and reliable winter maintenance service to keep your property safe and accessible throughout the winter months. Our comprehensive service includes gritting, snow ploughing, and snow blowing with modern, well-maintained equipment and experienced operators available 24/7 during winter weather events.",
+    "whereItHelps": "Essential for maintaining safe access to farms, construction sites, commercial properties, and rural locations during winter. Prevents accidents, ensures business continuity, and keeps critical routes open when you need them most.",
+    "deliverables": [
+      "Gritting car parks and roads (with or without rock salt supply)",
+      "Gritting of farm tracks and access roads (with or without winter grit supply)",
+      "Tractors with snow ploughs for efficient clearance",
+      "Tractors with snow blowers for heavy snowfall",
+      "Motor grader with snow chains for large areas",
+      "24/7 availability during winter weather events"
+    ]
+  },
+  {
+    "slug": "groundworks",
+    "title": "Groundworks & Earthmoving",
+    "icon": "Shovel",
+    "summary": "Professional groundworks for construction and agricultural projects",
+    "category": "construction",
+    "whatWeDo": "We provide comprehensive groundworks services including site preparation, excavation, drainage installation, and land leveling. Our experienced team handles everything from small residential projects to large-scale agricultural developments.",
+    "whereItHelps": "Essential for new builds, extensions, agricultural buildings, drainage systems, and land improvement projects. Proper groundworks ensure stable foundations and effective water management.",
+    "deliverables": [
+      "Site clearance and preparation",
+      "Excavation and earthmoving",
+      "Drainage system installation",
+      "Foundation preparation",
+      "Land leveling and grading",
+      "Topsoil stripping and storage"
+    ]
+  },
+  {
+    "slug": "fencing",
+    "title": "Agricultural Fencing",
+    "icon": "Fence",
+    "summary": "Durable fencing solutions for farms and rural properties",
+    "category": "agriculture",
+    "whatWeDo": "We install and repair all types of agricultural fencing including post and rail, stock fencing, barbed wire, and electric fencing. All work is completed to the highest standards using quality materials.",
+    "whereItHelps": "Perfect for livestock management, boundary marking, security, and land division. Quality fencing protects your investment and keeps animals safe and secure.",
+    "deliverables": [
+      "Stock fencing installation",
+      "Post and rail fencing",
+      "Electric fencing systems",
+      "Gate installation and repair",
+      "Boundary fencing",
+      "Fence maintenance and repairs"
+    ]
+  },
+  {
+    "slug": "drainage",
+    "title": "Land Drainage",
+    "icon": "Droplets",
+    "summary": "Expert drainage solutions for agricultural and construction sites",
+    "category": "agriculture",
+    "whatWeDo": "We design and install comprehensive drainage systems to manage water effectively on your land. From field drainage to surface water management, we ensure your land stays productive year-round.",
+    "whereItHelps": "Critical for preventing waterlogging, improving soil conditions, protecting crops, and maintaining access routes. Good drainage maximizes land productivity and reduces maintenance costs.",
+    "deliverables": [
+      "Field drainage systems",
+      "French drains",
+      "Soakaways and attenuation",
+      "Ditch clearance and maintenance",
+      "Surface water management",
+      "Drainage surveys and planning"
+    ]
+  },
+  {
+    "slug": "demolition",
+    "title": "Demolition & Site Clearance",
+    "icon": "Hammer",
+    "summary": "Safe and efficient demolition services",
+    "category": "construction",
+    "whatWeDo": "We provide professional demolition services for buildings, structures, and site clearance. All work is carried out safely with proper waste management and recycling where possible.",
+    "whereItHelps": "Necessary for redevelopment projects, removing unsafe structures, site preparation, and creating space for new builds. We handle everything from small outbuildings to larger structures.",
+    "deliverables": [
+      "Building demolition",
+      "Outbuilding removal",
+      "Site clearance",
+      "Waste removal and disposal",
+      "Recycling and salvage",
+      "Site safety management"
+    ]
+  },
+  {
+    "slug": "landscaping",
+    "title": "Landscaping & Groundcare",
+    "icon": "Trees",
+    "summary": "Professional landscaping for commercial and agricultural properties",
+    "category": "agriculture",
+    "whatWeDo": "We offer complete landscaping services including ground preparation, seeding, turfing, and ongoing maintenance. Whether it's creating new green spaces or maintaining existing areas, we deliver quality results.",
+    "whereItHelps": "Ideal for improving property appearance, creating functional outdoor spaces, erosion control, and enhancing land value. Professional landscaping makes a lasting impression.",
+    "deliverables": [
+      "Ground preparation and leveling",
+      "Seeding and turfing",
+      "Tree and hedge planting",
+      "Hardscaping and pathways",
+      "Erosion control",
+      "Ongoing maintenance services"
+    ]
+  },
+  {
+    "slug": "plant-hire",
+    "title": "Plant & Machinery Hire",
+    "icon": "Truck",
+    "summary": "Modern plant and machinery with experienced operators",
+    "category": "construction",
+    "whatWeDo": "We provide plant and machinery hire with skilled operators for construction and agricultural projects. Our fleet includes excavators, dumpers, telehandlers, and more, all maintained to the highest standards.",
+    "whereItHelps": "Perfect for projects requiring specialist equipment without the capital investment. Our experienced operators ensure efficient, safe work completion.",
+    "deliverables": [
+      "Excavators (various sizes)",
+      "Dumpers and tipper trucks",
+      "Telehandlers",
+      "Compact equipment",
+      "Experienced operators",
+      "Flexible hire periods"
+    ]
+  },
+  {
+    "slug": "concrete-works",
+    "title": "Concrete & Hard Surfacing",
+    "icon": "Square",
+    "summary": "Quality concrete work for all applications",
+    "category": "construction",
+    "whatWeDo": "We provide professional concrete services including bases, floors, yards, and hard standings. All work is completed to specification with proper preparation and finishing.",
+    "whereItHelps": "Essential for agricultural yards, building foundations, access roads, and durable surfaces. Quality concrete work lasts for decades with minimal maintenance.",
+    "deliverables": [
+      "Concrete bases and foundations",
+      "Agricultural yard construction",
+      "Hard standings and access roads",
+      "Reinforced concrete work",
+      "Surface finishing",
+      "Repairs and resurfacing"
+    ]
+  }
+]

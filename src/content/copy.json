@@ -1,0 +1,71 @@
+{
+  "hero": {
+    "headline": "Professional Construction & Agriculture Contractors",
+    "subheadline": "Serving Lancashire with expert groundworks, fencing, drainage, and plant hire. Local knowledge, professional service, delivered safely.",
+    "primaryCTA": "Request a Quote",
+    "secondaryCTA": "Speak to the Team"
+  },
+  "highlights": [
+    {
+      "icon": "Shield",
+      "title": "Fully Insured & Accredited",
+      "description": "Comprehensive insurance and all necessary tickets and certifications for safe, compliant work."
+    },
+    {
+      "icon": "MapPin",
+      "title": "Local Lancashire Team",
+      "description": "Based in Lancashire, we understand local conditions and provide rapid response across the region."
+    },
+    {
+      "icon": "FileCheck",
+      "title": "RAMS Prepared",
+      "description": "Full risk assessments and method statements for every project, ensuring safety and compliance."
+    }
+  ],
+  "whyUs": {
+    "title": "Why Choose Lancashire Ag?",
+    "intro": "We're a family-run business with deep roots in Lancashire's agricultural and construction sectors. Our reputation is built on reliability, quality workmanship, and honest communication.",
+    "points": [
+      "Over 15 years serving Lancashire farms and construction sites",
+      "Modern, well-maintained plant and equipment",
+      "Experienced, qualified operators and groundworkers",
+      "Comprehensive insurance and health & safety compliance",
+      "Competitive pricing with transparent quotes",
+      "Available year-round, including winter months"
+    ]
+  },
+  "testimonial": {
+    "quote": "Lancashire Ag completed our farm drainage project on time and within budget. The difference to our land productivity has been remarkable. Professional, reliable, and a pleasure to work with.",
+    "author": "James Mitchell",
+    "role": "Farm Owner, Preston"
+  },
+  "about": {
+    "story": "Lancashire Ag was founded to provide professional, reliable contracting services to the agricultural and construction sectors across Lancashire. We understand the unique challenges of working in rural environments and on active construction sites. Our team combines traditional craftsmanship with modern equipment and techniques to deliver outstanding results.",
+    "values": [
+      "Safety first, always",
+      "Quality workmanship guaranteed",
+      "Clear communication throughout",
+      "Respect for your property and operations",
+      "Fair pricing and transparent quotes"
+    ],
+    "credentials": [
+      "Fully insured (£10m public liability)",
+      "CSCS certified operatives",
+      "CPCS qualified plant operators",
+      "RAMS prepared for all projects",
+      "Environmental awareness certified"
+    ]
+  },
+  "contact": {
+    "phone": "+44 1234 567890",
+    "email": "info@lancashireag.com",
+    "serviceArea": "Lancashire and surrounding areas",
+    "hours": "Monday - Friday: 7:00 AM - 6:00 PM, Saturday: 7:00 AM - 1:00 PM",
+    "winterNote": "We work safely through winter months with appropriate precautions and planning.",
+    "responseTime": "We aim to respond to all enquiries within 4 working hours during business hours."
+  },
+  "footer": {
+    "tagline": "Professional contractors you can trust",
+    "comfort": "Lancashire Ag provides reliable construction and agricultural contracting services across Lancashire. We're here when you need us, delivering quality work safely and efficiently."
+  }
+}
