@@ -53,10 +53,10 @@ export function Header() {
       )}
     >
       <Container>
-        <nav className="relative flex items-center justify-between py-4">
+        <nav className="relative flex items-center justify-between py-8 md:py-4">
           {/* Logo - Centered on mobile, left on desktop */}
           <Link to="/" className="flex items-center md:relative absolute left-1/2 -translate-x-1/2 md:left-auto md:translate-x-0">
-            <img src="/logo.svg" alt="Lancashire Ag" className="h-14 w-auto" />
+            <img src="/logo.svg" alt="Lancashire Ag" className="md:h-14 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}
