@@ -70,7 +70,7 @@ export function Projects() {
 
         {/* Projects Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {filteredProjects.map((project, index) => (
+          {filteredProjects.map((project) => (
             <Card key={project.id} hoverable>
               <div className="aspect-video bg-muted/30 rounded-t-2xl overflow-hidden">
                 <div className="w-full h-full flex items-center justify-center text-muted">

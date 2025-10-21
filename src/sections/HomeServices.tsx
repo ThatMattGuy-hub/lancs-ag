@@ -41,7 +41,7 @@ export function HomeServices() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-        {services.slice(0, 6).map((service, index) => {
+        {services.slice(0, 6).map((service) => {
           const Icon = iconMap[service.icon as keyof typeof iconMap];
           
           return (

@@ -1,4 +1,4 @@
-import { HTMLAttributes, forwardRef } from 'react';
+import { forwardRef, type HTMLAttributes } from 'react';
 import { cn } from '@/lib/utils';
 import { motion } from 'framer-motion';
 
@@ -21,7 +21,7 @@ const Card = forwardRef<HTMLDivElement, CardProps>(
         viewport={{ once: true, margin: '-50px' }}
         transition={{ duration: 0.5 }}
         className={cn(baseStyles, featuredStyles, hoverStyles, className)}
-        {...props}
+        {...(props as any)}
       >
         {children}
       </motion.div>

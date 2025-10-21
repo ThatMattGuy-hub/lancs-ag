@@ -3,8 +3,7 @@ import { Section } from '@/components/ui/Section';
 import { Button } from '@/components/ui/Button';
 import { Badge } from '@/components/ui/Badge';
 import { Clock, Users, Truck } from 'lucide-react';
-import { motion, useInView, useMotionValue, useSpring } from 'framer-motion';
-import { useRef, useEffect } from 'react';
+import { motion } from 'framer-motion';
 import projects from '@/content/projects.json';
 
 function AnimatedMetric({ value, label, icon: Icon }: { value: string; label: string; icon: any }) {
